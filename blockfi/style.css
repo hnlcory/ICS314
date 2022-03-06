@@ -1,0 +1,78 @@
+.ui.borderless.topmen.menu {
+  background-color: rgb(241, 241, 241);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Montserrat';
+}
+
+.cardpage {
+  background-color: rgb(241, 241, 241);
+  padding-bottom: 30px;
+}
+
+h1.ui.men.header, ui.tradepage.header{
+  font-size: 70px;
+  font-weight: 700;
+}
+
+h2.ui.men.header{
+  font-size: 15px;
+}
+
+h3.ui.men.header{
+  font-size: 12px;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat'!important;
+}
+
+h2.ui.header {
+  font-size: 18px;
+}
+
+.ui.left.aligned.header {
+  color: rgb(255, 255, 255);
+
+}
+
+.ui.center.aligned.header {
+  padding-top: 40px;
+}
+
+.ui.tinyblue.header {
+  color: rgb(0, 50, 235);
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.ui.blue.button{
+  background-color: rgb(0, 50, 235);
+  font-family: 'Montserrat';
+  font-size: 14px;
+}
+
+.right.item {
+  color: rgb(0, 50, 235) !important;
+}
+
+.news {
+  background-color: #001046;
+  color: white;
+
+}
+
+.choice.paragraph {
+  text-align: center;
+  font-family: 'Montserrat';
+}
+
+.footer{
+  font-family: 'Montserrat';
+  background-color: #001046;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 50px;
+}
+
